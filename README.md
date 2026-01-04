@@ -1,4 +1,5 @@
-# MS_053_F24 | Intro to Computational Media
+# Intro to Computational Media
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This is the [website](https://scrippscollege.github.io/MS_053_F23/) for Intro to Computational Media, an undergraduate-level course at Scripps College.
 
@@ -16,3 +17,14 @@ This is an introductory course in computation within context of media and art wi
 1. Analyze the social and cultural importance of computational media art
 1. Use technical proficiency to create computational media art
 1. Create a two-dimensional computational-based project
+
+## License and Attribution
+
+The Critical Computation course content designed by [Xin Xin](https://xin-xin.info) and [Katherine Moriwaki](https://kakirine.com/) is licensed under 
+[CC BY-NC-SA 4.0][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
